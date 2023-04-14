@@ -40,4 +40,20 @@ body {
     width: 100%;
     margin-bottom: 20px;
 }
+.login-box input [type="text"],
+.login-box input [type="password"] {
+    border: none;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    outline: none;
+    height: 40px;
+    color: #fff;
+    font-size: 16px;
+}
+
+.login-box input[type="sumbit"] {
+    border: none;
+    outline: none;
+    height: 40px;
+}
 
