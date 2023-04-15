@@ -27,3 +27,8 @@ body {
     text-transform: uppercase;
     font-weight: 500;
 }
+
+.form-box input[type="text"],
+.form-box input[type="password"],
+.form-box button[type="sumbit"] {
+}
