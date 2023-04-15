@@ -14,3 +14,10 @@ body {
     align-items: center;
 
 }
+
+.form-box {
+    width: 300px;
+    padding: 40px;
+    background: #191919;
+    text-align: center;
+}
