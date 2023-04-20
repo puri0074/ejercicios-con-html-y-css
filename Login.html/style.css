@@ -5,9 +5,9 @@ body, html {
 body {
     margin: 0;
     padding: 0;
-    background: #2f3542;
+    background: #325ebc;
 
-    display: flex;
+    display: flex;S
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
@@ -16,9 +16,9 @@ body {
 }
 
 .form-box {
-    width: 300px;
-    padding: 40px;
-    background: #191919;
+    width: 400px;
+    padding: 50px;
+    background: #110808;
     text-align: center;
 }
 
@@ -37,7 +37,7 @@ body {
     margin: 10px auto;
     padding: 14px 10px;
     text-align: center;
-    border: 2px solid #3742fa;
+    border: 2px solid #342fcb;
     width: 200px;
     outline: none;
     color: white;
@@ -52,9 +52,9 @@ body {
  }
 .form-box button[type="submit"] {
     border: 0;
-    background: #5352ed;
+    background: #090955;
     cursor: pointer;
-    border: 2px solid #3742fa:
+    border: 2px solid #050505:
 }
 .form-box button[type="submit"]:hover {
     background: none;
